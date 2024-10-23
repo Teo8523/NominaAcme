@@ -1,0 +1,17 @@
+{
+    "Empleado": [
+        {
+            "identificacion": 123,
+            "Nombre": "teo",
+            "Cargo": "gerente",
+            "Salario": 10000
+        },
+        {
+            "identificacion": 123,
+            "Bono": 500,
+            "Concepto": "hora",
+            "fecha": "10/10/2024"
+        }
+    ],
+    "Salario": 9660.0
+}
